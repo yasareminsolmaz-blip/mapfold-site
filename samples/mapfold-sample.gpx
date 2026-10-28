@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Garmin Connect" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+  <metadata><name>Aydos Ormanı</name></metadata>
+  <wpt lat="40.9500" lon="29.2600"><ele>420</ele><name>Zirve</name></wpt>
+  <trk><name>Aydos Tepesi Yürüyüşü</name>
+    <trkseg>
+      <trkpt lat="40.9400" lon="29.2500"><ele>300.5</ele><time>2026-10-18T07:00:00Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:hr>110</gpxtpx:hr></gpxtpx:TrackPointExtension></extensions></trkpt>
+      <trkpt lat="40.9450" lon="29.2550"><ele>360</ele><time>2026-10-18T07:10:00.500Z</time></trkpt>
+      <trkpt lat="40.9500" lon="29.2600"><ele>420</ele><time>2026-10-18T07:20:00Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
