@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "pattern": "fartle[gk]\\w*|fartlık|fart lek", "replace": "fartlek" },
+    { "pattern": "\\bpeys\\b|\\bpes\\b|\\bpace'?(?:le|de|te|inde)\\b", "replace": "pace" }
+  ],
+  "recovery": [],
+  "recoveryPrefix": [],
+  "work": [],
+  "warmup": [],
+  "cooldown": [],
+  "separators": [],
+  "numbers": {}
+}
